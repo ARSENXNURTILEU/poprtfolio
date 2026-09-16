@@ -1,2 +1,2 @@
-# poprtfolio
+# portfolio
 Менің портфолио сайтым
